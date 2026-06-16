@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+chromadb
+neo4j
+google-generativeai
+pypdf
+docx2txt
+python-dotenv
+pydantic
+httpx
+python-multipart
+plotly
+pandas
+sentence-transformers
+torch
+torchvision
